@@ -147,8 +147,4 @@ count to decide between a circle, a rectangle, or a polygon.
 - Undo history is capped (`MAX_UNDO_STEPS`) so long sessions don't grow
   memory unbounded — the oldest snapshot is dropped once the cap is hit.
 
-## Screenshots / Demo Video
 
-*Add screenshots or a short screen recording of the app in use here
-before submitting — e.g. `docs/demo.gif` or a link to a hosted video —
-since this depends on your own webcam and drawing session.*
